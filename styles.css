@@ -1,0 +1,30 @@
+.box-1{
+    display: block;
+    width: 100%;
+    text-align: center;
+    
+}
+/*ESTILOS DE LA IMAGEN 1*/
+.box-1 .imagen-1{
+    width: 60%;
+    height: 25%;
+    border: 5px solid white;
+    margin-top: 20px;
+}
+/*ESTILOS DEL TEXTO*/
+.texto-1{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 40px;
+    text-align: justify;
+}
+.texto-1 p, .box-2 p, .texto-3 p, .texto-4 p, .texto-5 p,
+.texto-6 p, .texto-7 p
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+span{
+    color: blue;
+    font-weight: bolder;
+}
